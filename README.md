@@ -8,7 +8,7 @@
 PrivateCleo/PrivateCleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Facebokm Badge](https://img.shields.io/badge/-termuxhackers.id-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/cikd.miwae/)](https://www.facebook.com/cikd.miwae) [![Telegram Badge](https://img.shields.io/badge/-termuxhackers.id-f01397?style=flat&logo=Telegram&logoColor=white&link=https://www.t.me/cartheo)](https://t.me/cartheo)
+[![Facebokm Badge](https://img.shields.io/badge/-PrivateCleo-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/cikd.miwae/)](https://www.facebook.com/cikd.miwae) [![Telegram Badge](https://img.shields.io/badge/-PrivateCleo-f01397?style=flat&logo=Telegram&logoColor=white&link=https://www.t.me/cartheo)](https://t.me/cartheo)
 ### Hello world, from termux user!👋
 <p align=left> <img src=https://komarev.com/ghpvc/?username=PrivateCleo alt=PrivateCleo /> </p>
 
